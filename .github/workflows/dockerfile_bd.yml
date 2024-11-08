@@ -3,7 +3,7 @@ name: Test with PostgreSQL 13
 on:
   push:
     branches:
-      - main
+      - allysson
 
 jobs:
   postgres:
